@@ -1,9 +1,9 @@
 # AnonyGen_v1.0.0.3 
 ⋄ Generator Kont! ⋄
 
-•••••••••••
-ChangeLog
-•••••••••••
+   •••••••••••
+    ChangeLog
+   •••••••••••
 
          • [+] - Dodano Kategoria "Spotify"
        • [+] - Dodano Kategoria "Netflix"
@@ -14,5 +14,5 @@ ChangeLog
 
 ----------------------------------------
 
-[Support / Discord](https://discord.gg/KNErVDS5US) || [strona](https://sites.google.com/view/anonygen)
+>> [Support / Discord](https://discord.gg/KNErVDS5US) ღ [strona](https://sites.google.com/view/anonygen) <<
 ![image](https://user-images.githubusercontent.com/98413376/202907831-9f7d7a99-0ac5-494c-9ed0-c00ba901c0cc.png)
